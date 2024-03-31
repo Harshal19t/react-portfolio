@@ -13,7 +13,7 @@ const Heroimg = () => {
             {/* <video src={videobg} autoPlay loop muted /> */}
         </div>
         <div className="content">
-            <p> Hi, I'm a novoice </p>
+            <p> Hi, I'm a novice </p>
             <h1><Typewriter onInit={(typewriter) => { typewriter
          .typeString("Data Analyst")
          .pauseFor(1000)
