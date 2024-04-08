@@ -57,7 +57,19 @@ const ProjectCardData=  [
         title: "Vivlio De Genre",
         text: "A website which provide suggestions of books based on the selected genre.",
         source: "https://github.com/Harshal19t/Vivlio-de-genre"
-    }
+    },
+    {
+        imgsrc: figma,
+        title: "Medi-Quick: E-commerce website for pharmacy",
+        text: "This is my academic project where this design provide convenience for people to order and manage medication of theirs and their family's too",
+        source: "https://www.figma.com/file/KG8Bh65ad4KsZgxiJ6tolz/HCI-Design?type=design&node-id=0%3A1&mode=design&t=TZYPzU9ineApeDRo-1"
+    },
+    {
+        imgsrc: figma,
+        title: "Tow Tracking Application",
+        text: "This is my academic project where this design provide convenience for policemen to enter the towed vehicle data as soon as the vehicle gets towed and an alert message get sent to the vehicle owner from where he/she can track their vehicle by the help of website",
+        source: "https://www.figma.com/file/D5eNH3d4i3ksaAHeppKbfy/TowTracker?type=design&node-id=14%3A2544&mode=design&t=TZYPzU9ineApeDRo-1"
+    },
 ];
 
 export default ProjectCardData;
