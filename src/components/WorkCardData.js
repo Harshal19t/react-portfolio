@@ -70,6 +70,12 @@ const ProjectCardData=  [
         text: "This is my academic project where this design provide convenience for policemen to enter the towed vehicle data as soon as the vehicle gets towed and an alert message get sent to the vehicle owner from where he/she can track their vehicle by the help of website",
         source: "https://www.figma.com/file/D5eNH3d4i3ksaAHeppKbfy/TowTracker?type=design&node-id=14%3A2544&mode=design&t=TZYPzU9ineApeDRo-1"
     },
+    {
+        imgsrc: figma,
+        title: "Eduminatti Mock-Up Application",
+        text: "Mock-up mobile website design",
+        source: "https://www.figma.com/design/6KO0cmadKOM0ou08akjcjb/Eduminatti?node-id=0%3A1&t=GXm98krfVo9o0NRF-1"
+    },
 ];
 
 export default ProjectCardData;
