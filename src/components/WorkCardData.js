@@ -76,6 +76,12 @@ const ProjectCardData=  [
         text: "Mock-up mobile website design",
         source: "https://www.figma.com/design/6KO0cmadKOM0ou08akjcjb/Eduminatti?node-id=0%3A1&t=GXm98krfVo9o0NRF-1"
     },
+    {
+        imgsrc: figma,
+        title: "Human Illustrators in Figma",
+        text: "Creating some human illustrators for the academic projects",
+        source: "https://www.figma.com/design/wvNTQp3De727gTWQcHbBSc/Illustrations?node-id=0%3A1&t=h6ZbfVsGYPtTmaut-1"
+    },
 ];
 
 export default ProjectCardData;
