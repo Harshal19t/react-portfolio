@@ -82,6 +82,12 @@ const ProjectCardData=  [
         text: "Creating some human illustrators for the academic projects",
         source: "https://www.figma.com/design/wvNTQp3De727gTWQcHbBSc/Illustrations?node-id=0%3A1&t=h6ZbfVsGYPtTmaut-1"
     },
+    {
+        imgsrc: figma,
+        title: "WebWellness: Mental Health Support and Awareness Website",
+        text: "It is a mental Health Support and Awareness Website which provides various functionalities from community joining to emergency support",
+        source: "https://www.figma.com/design/FQTqxGmop8fJt14DRSFq6e/Mental-Awarness-Website?node-id=0-1&t=jpDSqfNslTsG8R50-1"
+    },
 ];
 
 export default ProjectCardData;
